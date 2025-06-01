@@ -4,7 +4,7 @@ Something I am planning on doing is also implementing a different AI that would 
 
 ## Commands (both planned and implemented)
 #### Survival ("fb start_survival")
-Added in version: **Not Implemented**
+Added in version: **Not Implemented**<br>
 Will tell Baritone to start off as if they just started a new survival world
 The steps the Python script will tell Baritone to do are the following:
 - Mine enough wood for a basic house and tools
@@ -14,4 +14,4 @@ The steps the Python script will tell Baritone to do are the following:
 - Go back to house, create chest, and move wooden tools to chest
 - STILL WORKING ON ALL THE STEPS IT WILL TAKE
 #### Mining Mode ("fb mine _BLOCK-NAME_ _QUANITY_")
-Added in version: **Not Implemented**
+Added in version: **Not Implemented**<br>
