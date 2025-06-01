@@ -1,4 +1,4 @@
-# Minecraft-1.12.2-Baritone-Complete-AI
+# Minecraft-1.12.2-AutoBaritone
 The 1.12.2 Baritone AI lacks a bit. I decided to fix that, with this repo, the Baritone Mining AI (ver for 1.12.2 that is) will be able to do hundreds of things more than it could before, all from a Python terminal.
 Something I am planning on doing is also implementing a different AI that would handle fighting mobs/players (hopefully)
 
